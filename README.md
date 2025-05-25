@@ -31,5 +31,4 @@ A simple yet powerful **Calculator** built with pure **HTML**, **CSS**, and **Ja
 ---
 
 ## 📸 Preview
-![Uploading Calculator.png…]()
-
+![Calculator](https://github.com/user-attachments/assets/d16c50c4-fb60-429b-b50e-6cb4e72811f5)
