@@ -1,14 +1,35 @@
-# Calculator Using HTML, CSS, and JavaScript
+# 🧮 Calculator – HTML, CSS & JavaScript
 
-This project is a simple yet functional calculator built with HTML, CSS, and JavaScript. 
-It performs basic arithmetic operations and features a clean, responsive design.
+A simple yet powerful **Calculator** built with pure **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations and features a sleek, responsive design — making it both functional and visually appealing across all devices.
 
-**Features**
-**Basic Arithmetic Operations:** Addition, subtraction, multiplication, and division.
-**Clear Functions:** "AC" button to clear the display and "DE" button to delete the last entry.
-**Real-time Calculations:** Displays results dynamically as you type.
-**Responsive Design:** Works seamlessly across different devices and screen sizes.
-Technologies Used
-**HTML:** Structuring the layout and elements of the calculator.
-**CSS:** Styling the calculator for a modern and user-friendly interface.
-**JavaScript:** Implementing the logic for handling inputs and performing calculations.
+---
+
+## ✨ Features
+
+- ➕➖✖️➗ **Basic Arithmetic Operations**  
+  Perform addition, subtraction, multiplication, and division.
+
+- 🧼 **Clear Functions**  
+  - `AC` button: Clears the entire display.  
+  - `DE` button: Deletes the last character entered.
+
+- 🔄 **Real-time Calculations**  
+  See results dynamically as you input numbers and operations.
+
+- 📱 **Responsive Design**  
+  Designed to adapt perfectly on mobiles, tablets, and desktops.
+
+
+---
+
+## 🛠️ Technologies Used
+
+- 🧱 **HTML5** – For creating the structure of the calculator.
+- 🎨 **CSS3** – For styling and responsive layout.
+- ⚙️ **JavaScript** – For handling logic, inputs, and operations.
+
+---
+
+## 📸 Preview
+![Uploading Calculator.png…]()
+
